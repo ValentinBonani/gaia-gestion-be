@@ -43,7 +43,7 @@
     "feathers-mongoose": "^7.3.2",
     "feathers-populate-hook": "^0.5.2",
     "helmet": "^3.16.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb-core": "^3.2.2",
     "mongoose": "^5.4.20",
     "serve-favicon": "^2.5.0",
